@@ -1,6 +1,6 @@
 # triage-node
 
-Rudimentary node app to test the LUIS triage issues app
+Rudimentary node app to test the LUIS triage issues app. Based on [Quickstart: Get intent using Node.js](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-get-started-node-get-intent)
 
 Create a `.env` file with the following environment variab les:
 
